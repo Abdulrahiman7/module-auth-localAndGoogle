@@ -4,7 +4,7 @@ A reusable authentication module that provides both local (username/password) an
 
 ## Features
 
-- Local authentication with email/username and password
+- Local authentication with email and password
 - Google OAuth 2.0 authentication
 - Session management
 - Password hashing and security
